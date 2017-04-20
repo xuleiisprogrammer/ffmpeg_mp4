@@ -1,0 +1,2 @@
+# ffmpeg_mp4
+利用ffmpeg开源将h264和aac合成MP4文件
